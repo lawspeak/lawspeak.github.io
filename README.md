@@ -1,2 +1,1 @@
-# sem-lang.github.io
-website
+# lawspeak
